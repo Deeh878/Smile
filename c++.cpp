@@ -9,4 +9,4 @@ struct Book {
     string author;
     bool isBorrowed;
     
-    
+    Book(string t, string a)
