@@ -15,4 +15,11 @@ private:
     vector<Book> books;
 public:
     void addBook(const string &title, const string &author) {
-        books.push_back(Book(title, author));    
+
+        books.push_back(Book(title, author));  
+public:
+    void addBook(const string &title, const string &author) {
+        books.push_back(Book(title, author));
+        cout << "Book added: " << title << endl;
+    }        
+		  
