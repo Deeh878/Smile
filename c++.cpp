@@ -10,3 +10,6 @@ struct Book {
     bool isBorrowed;
     
     Book(string t, string a) : title(t),
+    class Library {
+private:
+    vector<Book> books;
