@@ -21,5 +21,13 @@ public:
     void addBook(const string &title, const string &author) {
         books.push_back(Book(title, author));
         cout << "Book added: " << title << endl;
-    }s        
+    }
+	
+	    void displayBooks() {
+        cout << "\nAvailable Books:\n";
+        for (size_t i = 0; i < books.size(); ++i) {
+            cout << i + 1 << ". " << books[i].title << " by " << books[i].author
+                 << (books[i].isBorrowed ? " [Borrowed]" : " [Available]") << endl;
+        }
+    }       
 		  
