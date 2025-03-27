@@ -29,5 +29,9 @@ public:
             cout << i + 1 << ". " << books[i].title << " by " << books[i].author
                  << (books[i].isBorrowed ? " [Borrowed]" : " [Available]") << endl;
         }
-    }       
+    }
+	
+	  void borrowBook(size_t bookIndex) {
+        if (bookIndex < 1 || bookIndex > books.size()) {
+            cout << "Invalid book index!\n";       
 		  
