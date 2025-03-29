@@ -34,5 +34,7 @@ public:
 	  void borrowBook(size_t bookIndex) {
         if (bookIndex < 1 || bookIndex > books.size()) {
             cout << "Invalid book index!\n"; 
-			return;      
+			return;
+		}
+	
 		  
