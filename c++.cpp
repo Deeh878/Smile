@@ -45,6 +45,6 @@ public:
 	}
 	
 		void returnBook(size_t bookIndex) {
-			if (bookIndex {
+			if (bookIndex < 1 ||{
 			
 			}
