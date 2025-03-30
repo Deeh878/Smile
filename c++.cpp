@@ -41,5 +41,6 @@ public:
 		} else {
 			books[bookIndex - 1].isBorrowed = true;
 			cout << "Book borrowed:" << books[bookIndex - 1].title << endl; 
+		}
 	
 		  
