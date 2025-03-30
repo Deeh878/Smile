@@ -43,4 +43,5 @@ public:
 			cout << "Book borrowed:" << books[bookIndex - 1].title << endl; 
 		}
 	}
-		  
+	
+		void returnBook	  
