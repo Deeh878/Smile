@@ -40,6 +40,6 @@ public:
 			cout << "Book already borrowed!\n";
 		} else {
 			books[bookIndex - 1].isBorrowed = true;
-			cout << "Book borrowed:" << books[ 
+			cout << "Book borrowed:" << books[bookIndex 
 	
 		  
