@@ -44,4 +44,4 @@ public:
 		}
 	}
 	
-		void returnBook	  
+		void returnBook(size_t bookIndex) {
