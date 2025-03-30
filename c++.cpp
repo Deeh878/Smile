@@ -39,6 +39,6 @@ public:
 		if (books[bookIndex - 1].isBorrowed) {
 			cout << "Book already borrowed!\n";
 		} else {
-			books[bookIndex - 1].isBorrowed = true
+			books[bookIndex - 1].isBorrowed = true;
 	
 		  
