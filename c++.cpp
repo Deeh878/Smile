@@ -46,5 +46,5 @@ public:
 	
 		void returnBook(size_t bookIndex) {
 			if (bookIndex < 1 || bookIndex > books.size()){
-				cout << 
+				cout <<  "Invalid book index!\n"
 			}
