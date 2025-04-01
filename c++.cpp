@@ -48,6 +48,6 @@ public:
 				cout <<  "Invalid book index!\n";
 				return;
 			}
-			if (!books[bookIndex - 1]) {
+			if (!books[bookIndex - 1].isBorrowed) {
 				
 			}
