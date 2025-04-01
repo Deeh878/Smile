@@ -48,3 +48,4 @@ public:
 				cout <<  "Invalid book index!\n";
 				return;
 			}
+			if
