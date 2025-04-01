@@ -36,7 +36,6 @@ public:
             cout << "Invalid book index!\n"; 
 			return;
 		}
-		if (books[bookIndex - 1].isBorrowed) {
 			cout << "Book already borrowed!\n";
 		} else {
 			books[bookIndex - 1].isBorrowed = true;
@@ -47,4 +46,5 @@ public:
 		void returnBook(size_t bookIndex) {
 			if (bookIndex < 1 || bookIndex > books.size()){
 				cout <<  "Invalid book index!\n";
+				return
 			}
