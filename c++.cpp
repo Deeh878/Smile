@@ -50,4 +50,6 @@ public:
 			}
 			if (!books[bookIndex - 1].isBorrowed) {
 				cout << "Book wasn't borrowed!\n";
-			} else
+			} else {
+				
+			}
