@@ -49,5 +49,5 @@ public:
 				return;
 			}
 			if (!books[bookIndex - 1].isBorrowed) {
-				cout << ""
+				cout << "Book wasn't borrowed!\n""
 			}
