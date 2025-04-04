@@ -53,3 +53,8 @@ public:
 			} else {
 				books[bookIndex - 1].isBorrowed = 
 			}
+	};
+
+ int main() {
+    Library library;
+    int choice;
