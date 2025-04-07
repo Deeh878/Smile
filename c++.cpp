@@ -67,3 +67,11 @@ public:
         cout << "1. Add Book\n2. Display Books\n3. Borrow Book\n4. Return Book\n5. Exit\n";
         cout << "Enter your choice: ";
         cin >> choice;
+        
+      switch (choice) {
+        case 1: {
+            string title, author;
+            cout << "Enter book title: ";
+            cin.ignore();
+            getline(cin, title);
+            cout << "Enter book author: ";
