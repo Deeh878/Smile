@@ -75,3 +75,4 @@ public:
             cin.ignore();
             getline(cin, title);
             cout << "Enter book author: ";
+            g
