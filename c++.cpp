@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 
-using name space
+using name space std;
 
 struct Book {
     string title;
