@@ -76,7 +76,7 @@ public:
             getline(cin, title);
             cout << "Enter book author: ";
             getline(cin, tittle);
-            library.addBook(tit)
+            library.addBook(title)
         
     
         
