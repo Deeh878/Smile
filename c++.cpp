@@ -81,7 +81,7 @@ public:
    		}
    		case 2:
    			library.display();
-   			break
+   			break;
         
     
     
