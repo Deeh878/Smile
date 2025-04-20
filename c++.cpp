@@ -83,7 +83,7 @@ public:
    			library.display();
    			break;
    		case 3: {
-   			size_t ind
+   			size_t index
 			break;
 		   }
    			
