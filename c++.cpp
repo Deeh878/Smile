@@ -80,7 +80,7 @@ public:
         	break;
    		}
    		case 2:
-   			library.display()
+   			library.display();
         
     
     
