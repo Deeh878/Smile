@@ -78,7 +78,7 @@ public:
             getline(cin, tittle);
             library.addBook(title, author);
         	break;
-    
+   		}
         
     
     
