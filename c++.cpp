@@ -84,6 +84,7 @@ public:
    			break;
    		case 3: {
    			size_t index;
+   			co
 			break;
 		   }
    			
