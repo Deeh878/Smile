@@ -84,7 +84,7 @@ public:
    			break;
    		case 3: {
    			size_t index;
-   			cout << "Enter book index to borro"
+   			cout << "Enter book index to borrow"
 			break;
 		   }
    			
