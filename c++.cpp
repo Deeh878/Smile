@@ -85,7 +85,7 @@ public:
    		case 3: {
    			size_t index;
    			cout << "Enter book index to borrow: ";
-   			ci
+   			cin
 			break;
 		   }
    			
