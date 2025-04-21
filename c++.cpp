@@ -84,7 +84,7 @@ public:
    			break;
    		case 3: {
    			size_t index;
-   			cout << "Ent"
+   			cout << "Enter"
 			break;
 		   }
    			
