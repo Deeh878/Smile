@@ -90,7 +90,7 @@ public:
 			break;
 		   }
 		case 4: {
-			si
+			size
 			break;
 		}
 		   
