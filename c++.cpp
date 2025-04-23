@@ -89,7 +89,9 @@ public:
    			library.borrowBook(index);
 			break;
 		   }
-		case 4: 
+		case 4: {
+			break;
+		}
 		   
    			
         
