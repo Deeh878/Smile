@@ -86,7 +86,7 @@ public:
    			size_t index;
    			cout << "Enter book index to borrow: ";
    			cin >> index;
-   			library.borrowBook(in)
+   			library.borrowBook(inde)
 			break;
 		   }
 		   
