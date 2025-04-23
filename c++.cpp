@@ -86,8 +86,12 @@ public:
    			size_t index;
    			cout << "Enter book index to borrow: ";
    			cin >> index;
+   			li
 			break;
 		   }
+		   
+		   ca
+		   
    			
         
     
