@@ -90,7 +90,7 @@ public:
 			break;
 		   }
 		case 4: {
-			size_t i
+			size_t in
 			break;
 		}
 		   
