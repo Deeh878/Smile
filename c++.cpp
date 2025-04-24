@@ -91,7 +91,7 @@ public:
 		   }
 		case 4: {
 			size_t index;
-			cout << "Ent"
+			cout << "Ente"
 			break;
 		}
 		   
