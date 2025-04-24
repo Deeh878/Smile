@@ -91,7 +91,7 @@ public:
 		   }
 		case 4: {
 			size_t index;
-			cout << "Enter"
+			cout << "Enter "
 			break;
 		}
 		   
