@@ -22,6 +22,18 @@ public:
         books.push_back(Book(title, author));
         cout << "Book added: " << title << endl;
     }
+    
+    cas
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 	
 	    void displayBooks() {
         cout << "\nAvailable Books:\n";
